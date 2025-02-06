@@ -1,8 +1,7 @@
 import { Button } from "@/components/ui/button"
-
-export default function Home() {
+export default function App() {
   return (
-    <div className='text-2xl items-center justify-center flex flex-col w-full h-full '>
+    <div className='text-3xl items-center justify-center flex flex-col w-full h-full '>
       <h1 className="underline font-extrabold ">
         Here's a TEMPLATE WITH THE FOLLOWING DEPENDENCIES:</h1>
       <ol>
