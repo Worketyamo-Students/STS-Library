@@ -68,5 +68,14 @@
   body {
     @apply bg-lightBg text-foreground font-inter overflow-x-hidden;
   }
+  h1{
+    @apply font-montserrat text-4xl md:text-5xl font-semibold dark:text-[#F7F6CF];
+  }
+  h2{
+    @apply font-extrabold text-[28px] md:text-[40px];
+  }
+  span{
+    @apply text-[14px] md:text-[16px] text-gray-400;
+  }
 }
 
