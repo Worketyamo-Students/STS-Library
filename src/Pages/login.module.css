@@ -1,7 +1,7 @@
 .ombre{
     background-color: rgba(231, 76, 60, 0.5);
     width: 100%;
-    height: 50rem;
+    height: 100%;
     clip-path: polygon(0 13%, 49% 0, 100% 100%, 96% 100%);
     filter: blur(60rem);
     rotate: -20deg;
